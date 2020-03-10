@@ -5,6 +5,7 @@ temp
 data
 .env 
 *.env
+.DS_Store
 
 ### Vim ###
 # swap
